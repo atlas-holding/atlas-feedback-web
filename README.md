@@ -1,6 +1,6 @@
-# ${{ values.name }}
+# atlas-feedback-web
 
-${{ values.description }}
+atlas-feedback-web service
 
 ## Stack
 - React 18 · Vite 5 · nginx

@@ -1,5 +1,5 @@
 {
-  "name": "${{ values.name }}",
+  "name": "atlas-feedback-web",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
